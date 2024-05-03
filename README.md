@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am an Esports Athlete**
 
-- - 🌱 I’m currently a **Freelance Graphic Designer**
+- 🌱 I’m currently a **Freelance Graphic Designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
