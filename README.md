@@ -111,11 +111,10 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🚀 **Currently:** Shipping high-quality code as a **Freelance Software Developer**.
-- 🏆 **Esports:** Competitive athlete—strategic thinking is my second language.
-- 🎨 **Design:** Eye for aesthetics, blending UI/UX with robust backend systems.
-- 🔗 **Portfolio:** [Explore my work](https://portfoliorohanram.vercel.app)
-- 📮 **Contact:** [rohanram86@gmail.com](mailto:rohanram86@gmail.com)
+- 🌱 Currently working as a **Freelance Software Developer**
+- 💼 Portfolio: **[portfoliorohanram.vercel.app](https://portfoliorohanram.vercel.app)**
+- 📫 Reach me at: **rohanram86@gmail.com**
+- ⚡ Fun fact: **I'm an Esports Athlete** — professional gamer by night, developer by day
 
 <br/>
 
