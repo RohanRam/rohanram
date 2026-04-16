@@ -100,9 +100,16 @@
   <p><i>Turning logic into code by day, and dominating the server by night.</i></p>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanram&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rohanram?label=FOLLOWERS&style=for-the-badge&color=1D9E75" alt="Followers" />
+</p> -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rohanram?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-1D9E75?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Esports-Athlete-D85A30?style=flat" alt="Esports" />
 </p>
 
 ---
@@ -140,12 +147,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanram&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=555&icon_color=1D9E75" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohanram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rohanram?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-1D9E75?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Esports-Athlete-D85A30?style=flat" alt="Esports" />
-</p>
+
 
 ---
 
@@ -166,6 +168,6 @@
 <br />
 
 <p align="center">
-  <sub>Built with ❤️ by Rohan Ram</sub>
+  <sub>&copy Rohan Ram</sub>
 </p>
 
