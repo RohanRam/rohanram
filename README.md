@@ -94,7 +94,7 @@
 </p> -->
 
 <div align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="150" style="border-radius: 50%; border: 3px solid #0e75b6;">
+  <!-- <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="150" style="border-radius: 50%; border: 3px solid #0e75b6;"> -->
   <h1>Hey, I'm Rohan Ram 👋</h1>
   <strong>Full-Stack Architect | Python Enthusiast | Professional Esports Athlete</strong>
   <p><i>Turning logic into code by day, and dominating the server by night.</i></p>
