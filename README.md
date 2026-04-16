@@ -140,8 +140,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanram&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=555&icon_color=1D9E75" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanram&hide_border=true&background=00000000&ring=0e75b6&fire=D85A30&currStreakLabel=0e75b6&sideLabels=555&dates=555&currStreakNum=0e75b6&sideNums=555" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohanram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rohanram?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-1D9E75?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Esports-Athlete-D85A30?style=flat" alt="Esports" />
 </p>
 
 ---
