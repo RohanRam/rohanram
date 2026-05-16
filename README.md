@@ -41,10 +41,10 @@
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=rohanram&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=RohanRam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanram&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
