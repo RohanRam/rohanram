@@ -143,8 +143,13 @@
 ### 📊 GitHub Pulse
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanram&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=555" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanram&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=555&icon_color=1D9E75" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=rohanram&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanram&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 
