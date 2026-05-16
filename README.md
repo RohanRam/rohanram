@@ -48,6 +48,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRam&lay
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanram&theme=tokyonight">
 
 <img src="https://streak-stats.demolab.com?user=rohanram&theme=tokyonight&hide_border=true">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanram&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanram&theme=tokyonight">
+
 </div>
 
 ---
